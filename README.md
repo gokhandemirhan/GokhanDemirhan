@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokhan</h1>
 <h3 align="center">I like to debug JS</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhandemirhan&theme=onedark" alt="gokhandemirhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhandemirhan&theme=onedark&margin-w=15" alt="gokhandemirhan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_gokhandemirhan" target="blank"><img src="https://img.shields.io/twitter/follow/_gokhandemirhan?logo=twitter&style=for-the-badge" alt="_gokhandemirhan" /></a> </p>
 
