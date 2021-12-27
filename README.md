@@ -18,4 +18,6 @@ Get in touch:\
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Instagram photo parser](https://gokhandemirhan.dev/posts/instagram-photo-parser)
+- [Finally started with Gatsby JS](https://gokhandemirhan.dev/posts/finally-started-with-gatsbyjs)
 <!-- BLOG-POST-LIST:END -->
