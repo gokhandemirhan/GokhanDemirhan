@@ -14,3 +14,8 @@ Ask me about:\
 Get in touch:\
 📧 send me an email about anything you wanna talk about\
 📺 catch me on twitch
+
+
+## Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
