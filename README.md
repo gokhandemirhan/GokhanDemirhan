@@ -18,7 +18,7 @@ Get in touch:\
 
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A day with gatsby, bash and opensource](https://gokhandemirhan.dev/posts/configure-gatsby-auto-publish)
+- [A day with gatsby, bash and opensource](https://gokhandemirhan.dev/posts/configure-gatsby-developer-blog)
 - [Instagram photo parser](https://gokhandemirhan.dev/posts/instagram-photo-parser)
 - [Finally started with Gatsby JS](https://gokhandemirhan.dev/posts/finally-started-with-gatsbyjs)
 <!-- BLOG-POST-LIST:END -->
