@@ -1,17 +1,5 @@
 ## Hi 👋 I am Gokhan
 
-💻 I am a frontend developer at Booking.com\
-🏝️ Empower people to experience the world
-
-Ask me about:\
-⌨️ Frontend development\
-🤓 pop culture references
-
-Get in touch:\
-📧 send me an email\
-📺 catch me on twitch
-
-
 ## Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [HELLO WORLD.](https://gokhandemirhan.dev/posts/post-from-photo-Hello-world.)
